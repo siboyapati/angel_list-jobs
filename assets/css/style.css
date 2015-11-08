@@ -1,0 +1,38 @@
+.loading {
+	background-color: rgba(255, 255, 255, 0.5);
+	background-image: url("/assets/img/loader.gif");
+	background-position: center center;
+	background-repeat: no-repeat;
+	height: 100%;
+	position: absolute;
+	width: 100%;
+	z-index: 9999;
+}
+
+.pagination {
+	cursor: pointer;
+}
+
+.row.marketing {
+	position: relative;
+}
+
+a.media-left img {
+	width: 64px;
+}
+
+.media-body.well {
+	width: 100%;
+}
+
+.badge {
+	margin-left: 10px;
+}
+
+.media small {
+	color: #337ab7;
+}
+
+.header a:hover {
+	text-decoration: none;
+}
